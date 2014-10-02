@@ -1,0 +1,2 @@
+http://icpc.baylor.edu/worldfinals/problems
+https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8
